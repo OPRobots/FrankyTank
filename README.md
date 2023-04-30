@@ -1,4 +1,4 @@
-# FrankyTank2
+# FrankyTank
 Segunda coche solar creado por el equipo OPRobots.
 El coche de este año es en esencia el mismo diseño de la ultima competición pero fabricado de 0 nuevamente. Y con algunos ajustes técnicos.
 
