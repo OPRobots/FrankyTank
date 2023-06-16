@@ -1,5 +1,18 @@
-# FrankyTank
-Segunda coche solar creado por el equipo OPRobots.
+# BedgeTank & FrankyTank
+![FrankyTank2 - Arriba](/images/Bedge-FrankyTank.jpg)
+
+# BedgeTank (2023)
+Iteración de FrankyTank, siguiendo la misma filosofía y estructura, pero con un diseño mucho más ecológico y sostenible. En lugar de bridas y varillas de fibra de carbono se usa cuerda y madera de balsa. Además, todas las piezas de PLA están impresas con filamento reciclado y se han optimizado para usar menos pegamento epoxi, manteniendo la misma rigidez y resistencia.
+
+![BedgeTank - Abajo](/images/BedgeTank_01.jpeg)
+
+Al igual que en la primera iteración, hemos recortado el panel solar aun más para reducir aun más el peso. También hemos optimizado el diseño de la reductora para que sea más ligera y resistente.
+
+![BedgeTank - Reductora y Placa](/images/BedgeTank_02.jpeg)
+
+
+# FrankyTank (2022)
+Segundo coche solar creado por el equipo OPRobots.
 El coche de este año es en esencia el mismo diseño de la ultima competición pero fabricado de 0 nuevamente. Y con algunos ajustes técnicos.
 
 ![FrankyTank2 - Arriba](/images/FrankyTank2_01.jpeg)
